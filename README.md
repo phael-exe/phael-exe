@@ -97,5 +97,11 @@ Driven by a desire to learn, I believe in consistent effort and am always strivi
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=raphaelalvesdev&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github&card_width=100" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalvesdev&theme=midnight-purple&layout=compact&card_width=100">
 </div>
+
+---
+
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=raphaelalvesdev&row=1&column=7&theme=discord"/>
+</div>
   
 </details>
