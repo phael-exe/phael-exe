@@ -1,6 +1,5 @@
 <div align="center">
   
-# 🤍
 
 ### Hello, I'm Raphael Alves
 
