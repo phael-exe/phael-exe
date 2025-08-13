@@ -46,7 +46,7 @@
 
 I'm Raphael Alves, a tech enthusiast from Goiânia, Brazil. I'm a curious, dedicated, and hardworking person, always seeking to learn and grow. 
 My passion lies in Artificial Intelligence, and I'm currently pursuing a Bachelor's degree in AI at UFG, building on my Technical degree in Electronics from IFG Goiânia.
-Driven by a desire to learn, I believe in consistent effort and am always moving forward and enhancing my abilities.
+Currently, working as AI Researcher at CEIA & AKCIT. Driven by a desire to learn, I believe in consistent effort and am always moving forward and enhancing my abilities.
 
 ---
 
