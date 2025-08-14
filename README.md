@@ -1,5 +1,6 @@
 <div align="center">
-  
+
+# 🚀
 
 ### Hello, I'm Raphael Alves
 
@@ -12,6 +13,7 @@ I'm Data Scientist and AI Researcher at **CEIA** & **AKCIT**.
 ### About me
 - 🎓 Bachelor's degree in Artificial Intelligence from [**UFG**](https://inteligenciaartificial.inf.ufg.br/)
 - 💡 Main languages are [**Python**](https://python.org), [**C**](https://en.cppreference.com/w/c/language.html)
+- 🧠 Contributing to research and development projects at CEIA & AKCIT.
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-alves-701744265/)
