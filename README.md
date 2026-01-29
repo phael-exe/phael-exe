@@ -27,9 +27,19 @@ I'm Data Scientist and AI Researcher at **CEIA**.
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phael-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phael-exe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phael-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=phael-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=phael-exe&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phael-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phael-exe&theme=dark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=phael-exe&theme=react-dark&hide_border=false&area=true)
+
+</div>
 
 ---
 
