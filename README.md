@@ -6,18 +6,32 @@
 
 I'm Data Scientist and AI Researcher at **CEIA**.
 
-<img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phael-exe" alt="phael-exe" /> </p>
 
 </div>
 
-### About me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZiZ3ViMWRpaDRpNmJza2xlNmF5ZGFsYTNta3Fpbmg3b24yZXQ0MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YVardOGaPfzeo/giphy.gif" width=140  height=140/>
+---
+
+### About me 
 - 🎓 Bachelor's degree in Artificial Intelligence from [**UFG**](https://inteligenciaartificial.inf.ufg.br/)
 - 💡 Main languages are [**Python**](https://python.org), [**C**](https://en.cppreference.com/w/c/language.html)
 - 🧠 Contributing to research and development projects at CEIA
 
-### 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-alves-701744265/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/phaelexe)
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-alves-701744265/)
+[![X](https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social)](https://x.com/phaelexe)
+
+
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=phael-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=phael-exe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phael-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
+
+---
 
 ### 🛠️ Technologies & Tools
 <div style="display: inline_block">
