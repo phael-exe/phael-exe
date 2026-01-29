@@ -23,28 +23,6 @@ I'm Data Scientist and AI Researcher at **CEIA**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-alves-701744265/)
 [![X](https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social)](https://x.com/phaelexe)
 
-
----
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phael-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phael-exe&theme=dark&hide_border=false)<br/>
-
----
-
-### 💻 Language Statistics:
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phael-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-#### Most Used Languages (Detailed View)
-![Top Languages Detailed](https://github-readme-stats.vercel.app/api/top-langs/?username=phael-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=normal&langs_count=8)
-
-#### Language Stats Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phael-exe&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ---
 
 ### 🛠️ Technologies & Tools
