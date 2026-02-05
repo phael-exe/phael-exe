@@ -4,7 +4,7 @@
 
 ### Hello, I'm Raphael Alves
 
-I'm Data Scientist and AI Researcher at **CEIA**.
+I'm Data Scientist and AI Researcher at **CEIA & AKCIT**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phael-exe" alt="phael-exe" /> </p>
 
@@ -15,7 +15,7 @@ I'm Data Scientist and AI Researcher at **CEIA**.
 ### About me 
 - 🎓 Bachelor's degree in Artificial Intelligence from [**UFG**](https://inteligenciaartificial.inf.ufg.br/)
 - 💡 Main languages are [**Python**](https://python.org), [**C**](https://en.cppreference.com/w/c/language.html)
-- 🧠 Contributing to research and development projects at CEIA
+- 🧠 Contributing to research and development projects at [**CEIA**](https://ceia.ufg.br) & [**AKCIT**](https://akcit.ufg.br)
 
 ---
 
