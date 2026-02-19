@@ -6,8 +6,6 @@
 
 I'm Data Scientist and AI Researcher at **CEIA & AKCIT**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phael-exe" alt="phael-exe" /> </p>
-
 </div>
 
 ---
