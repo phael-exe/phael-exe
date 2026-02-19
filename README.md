@@ -19,7 +19,7 @@ I'm Data Scientist and AI Researcher at **CEIA & AKCIT**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-alves-701744265/)
-[![X](https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social)](https://x.com/phaelexe)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael_alves@discente.ufg.br)
 
 ---
 
