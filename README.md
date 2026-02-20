@@ -11,7 +11,7 @@ I'm Data Scientist and AI Researcher at **CEIA & AKCIT**.
 ---
 
 ### About me 
-- 🎓 Bachelor's degree in Artificial Intelligence from [**UFG**](https://inteligenciaartificial.inf.ufg.br/)
+- 🎓 Bachelor's degree in [**Artificial Intelligence**](https://inteligenciaartificial.inf.ufg.br/) at [**UFG**](https://ufg.br)
 - 🧠 Contributing to research and development projects at [**CEIA**](https://ceia.ufg.br) & [**AKCIT**](https://akcit.ufg.br)
 
 ---
