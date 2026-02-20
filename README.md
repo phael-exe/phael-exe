@@ -12,7 +12,6 @@ I'm Data Scientist and AI Researcher at **CEIA & AKCIT**.
 
 ### About me 
 - 🎓 Bachelor's degree in Artificial Intelligence from [**UFG**](https://inteligenciaartificial.inf.ufg.br/)
-- 💡 Main languages are [**Python**](https://python.org), [**C**](https://en.cppreference.com/w/c/language.html)
 - 🧠 Contributing to research and development projects at [**CEIA**](https://ceia.ufg.br) & [**AKCIT**](https://akcit.ufg.br)
 
 ---
