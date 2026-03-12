@@ -4,7 +4,7 @@
 
 ### Hello, I'm Raphael Alves
 
-I'm Data Scientist and AI Researcher at **CEIA & AKCIT**.
+I'm a enthusiast in Data Science, Engineering and MLOps, contributing in R&D projects and adventuring in tech world!
 
 </div>
 
@@ -12,7 +12,7 @@ I'm Data Scientist and AI Researcher at **CEIA & AKCIT**.
 
 ### About me 
 - 🎓 Bachelor's degree in [**Artificial Intelligence**](https://inteligenciaartificial.inf.ufg.br/) at [**UFG**](https://ufg.br)
-- 🧠 Contributing to research and development projects at [**CEIA**](https://ceia.ufg.br) & [**AKCIT**](https://akcit.ufg.br)
+
 
 ---
 
